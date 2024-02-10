@@ -3,15 +3,22 @@ body {
 }
 
 /* Hero Section */
+h1 {
+  font-weight: bold;
+}
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Avion-pista1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
 /* Mis trabajos */
+
+#Mis-trabajos {
+  background-color: #373a3c;
+}
 
 #Mis-trabajos .image-top {
   height: 250px;
@@ -32,8 +39,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
